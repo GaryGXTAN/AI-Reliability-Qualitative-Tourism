@@ -1,0 +1,160 @@
+# generated 2026-04-15T17:54:59.313203
+sheet,row,no,model,focus,prompt_id,prompt_text,output_raw,output_norm
+unlimited,4,1,ChatGPT 5 (Auto),Basic,P1,Perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Travel as Escape and Renewal
+Theme #2: Connection and Community
+Theme #3: Learning and Personal Growth
+Theme #4: Environmental and Ethical Awareness
+Theme #5: Authenticity and Local Engagement
+Theme #6: Transformative Impacts Beyond the Trip","theme #1: travel as escape and renewal
+theme #2: connection and community
+theme #3: learning and personal growth
+theme #4: environmental and ethical awareness
+theme #5: authenticity and local engagement
+theme #6: transformative impacts beyond the trip"
+unlimited,5,2,Claude (Sonnet 4),Basic,P1,Perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Transformational experience
+Theme #2: Authentic community connection
+Theme #3: Environmental consciousness and behavior change
+Theme #4: Skill acquisition and continued practice
+Theme #5: Sustainable tourism model appreciation
+Theme #6: Word-of-mouth advocacy","theme #1: transformational experience
+theme #2: authentic community connection
+theme #3: environmental consciousness and behavior change
+theme #4: skill acquisition and continued practice
+theme #5: sustainable tourism model appreciation
+theme #6: word-of-mouth advocacy"
+unlimited,6,3,ChatGPT 5 (Auto),Role,P2,You are a graduate student engaged in qualitative research. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Active Immersion in Nature as Core Value
+Theme #2: Authenticity Over Amenities
+Theme #3: Hospitality that Anticipates Needs
+Theme #4: Surf + Yoga as Catalysts for Growth
+Theme #5: Meaning-Making & Value Realignment (“Pura Vida”)
+Theme #6: Trips Timed as Life Resets
+Theme #7: Pragmatics Still Matter","theme #1: active immersion in nature as core value
+theme #2: authenticity over amenities
+theme #3: hospitality that anticipates needs
+theme #4: surf + yoga as catalysts for growth
+theme #5: meaning-making & value realignment (“pura vida”)
+theme #6: trips timed as life resets
+theme #7: pragmatics still matter"
+unlimited,7,4,Claude (Sonnet 4),Role,P2,You are a graduate student engaged in qualitative research. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Transformative Community Integration
+Theme #2: Values-Based Environmental Awakening
+Theme #3: Holistic Skill Integration
+Theme #4: Contrast with Conventional Tourism
+Theme #5: Long-term Relationship Maintenance","theme #1: transformative community integration
+theme #2: values-based environmental awakening
+theme #3: holistic skill integration
+theme #4: contrast with conventional tourism
+theme #5: long-term relationship maintenance"
+unlimited,8,5,ChatGPT 5 (Auto),Role,P3,You are a professional qualitative researcher. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Active immersion in nature as the core value of “good travel”
+Theme #2: Authenticity through host relationships and community contact
+Theme #3: Surf+Yoga as a catalyst for personal reset and identity work
+Theme #4: Ethical consumption: sustainability preferences shape choices
+Theme #5: Practical access and timing shape destinations but don’t dilute meaning
+Theme #6: High intention to sustain engagement post-trip","theme #1: active immersion in nature as the core value of “good travel”
+theme #2: authenticity through host relationships and community contact
+theme #3: surf+yoga as a catalyst for personal reset and identity work
+theme #4: ethical consumption: sustainability preferences shape choices
+theme #5: practical access and timing shape destinations but don’t dilute meaning
+theme #6: high intention to sustain engagement post-trip"
+unlimited,9,6,Claude (Sonnet 4),Role,P3,You are a professional qualitative researcher. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Transformative Personal Experience
+Theme #2: Authentic Community Integration
+Theme #3: Environmental Consciousness Activation
+Theme #4: Holistic Learning Environment
+Theme #5: Quality of Human Connection
+Theme #6: Sustainable Tourism Model Appreciation
+Theme #7: Post-Experience Integration Challenges","theme #1: transformative personal experience
+theme #2: authentic community integration
+theme #3: environmental consciousness activation
+theme #4: holistic learning environment
+theme #5: quality of human connection
+theme #6: sustainable tourism model appreciation
+theme #7: post-experience integration challenges"
+unlimited,10,7,ChatGPT 5 (Auto),Domain,P4,"You are a professional qualitative researcher in the recreation, leisure, and tourism domain. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.","Theme #1: Community-Powered Adventure
+Theme #2: Active Nature as a Reset
+Theme #3: Values in Action → Reflection at Home
+Theme #4: Small Frictions, Big Endorsements","theme #1: community-powered adventure
+theme #2: active nature as a reset
+theme #3: values in action → reflection at home
+theme #4: small frictions, big endorsements"
+unlimited,11,8,Claude (Sonnet 4),Domain,P4,"You are a professional qualitative researcher in the recreation, leisure, and tourism domain. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.","Theme #1: Authentic Community Integration
+Theme #2: Transformative Personal Impact 
+Theme #3: Environmental Consciousness & Behavioral Change
+Theme #4: Holistic Skill-Based Learning
+Theme #5: Values-Aligned Tourism Experience","theme #1: authentic community integration
+theme #2: transformative personal impact 
+theme #3: environmental consciousness & behavioral change
+theme #4: holistic skill-based learning
+theme #5: values-aligned tourism experience"
+unlimited,12,9,ChatGPT 5 (Auto),Domain,P5,You are a professional qualitative researcher in the field of social psychology. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Active Immersion over Passive Tourism
+Theme #2: Nature as Restorative Space
+Theme #3: Values-Congruent Hosts Catalyze Moral Elevation
+Theme #4: Timing Windows & Identity Work
+Theme #5: Pragmatic Pathways to Ideal Trips","theme #1: active immersion over passive tourism
+theme #2: nature as restorative space
+theme #3: values-congruent hosts catalyze moral elevation
+theme #4: timing windows & identity work
+theme #5: pragmatic pathways to ideal trips"
+unlimited,13,10,Claude (Sonnet 4),Domain,P5,You are a professional qualitative researcher in the field of social psychology. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis.,"Theme #1: Transformative Personal Growth
+Theme #2: Authentic Community Connection
+Theme #3: Environmental Behavior Change
+Theme #4: Skill Development 
+Theme #5: Quality Instruction
+Theme #6: Values-Based Approach
+Theme #7: Influence on Future Travel","theme #1: transformative personal growth
+theme #2: authentic community connection
+theme #3: environmental behavior change
+theme #4: skill development 
+theme #5: quality instruction
+theme #6: values-based approach
+theme #7: influence on future travel"
+unlimited,14,11,ChatGPT 5 (Auto),Method,P6,"You are a professional qualitative researcher. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis. You need to employ qualitative, open-coding to inductively assess the interview data. Thematic coding was conducted in an iterative fashion. Techniques used for identifying themes included word repetition, linguistic connectors, similarities and differences, metaphors and analogies, ‘indigenous’ categories of information related to surfing and yoga, and theory-related material in the interviewees’ transcripts.","Theme #1: Embodied Nature & Skill-Building
+Theme #2: Belonging & Host Community Care
+Theme #3: Localism over Mass Tourism
+Theme #4: Sustainability & Ethical Fit
+Theme #5: Life Crossroads & Restorative Escape
+Theme #6: Identity Shift & ‘Pura Vida’ Integration
+Theme #7: Pragmatics & Pathways (How People Got There)
+Theme #8: Unvarnished Moments (Discomforts & Limits)","theme #1: embodied nature & skill-building
+theme #2: belonging & host community care
+theme #3: localism over mass tourism
+theme #4: sustainability & ethical fit
+theme #5: life crossroads & restorative escape
+theme #6: identity shift & ‘pura vida’ integration
+theme #7: pragmatics & pathways (how people got there)
+theme #8: unvarnished moments (discomforts & limits)"
+unlimited,15,12,Claude (Sonnet 4),Method,P6,"You are a professional qualitative researcher. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis. You need to employ qualitative, open-coding to inductively assess the interview data. Thematic coding was conducted in an iterative fashion. Techniques used for identifying themes included word repetition, linguistic connectors, similarities and differences, metaphors and analogies, ‘indigenous’ categories of information related to surfing and yoga, and theory-related material in the interviewees’ transcripts.","Theme #1: Authentic Connection
+Theme #2: Environmental Awakening
+Theme #3: Transformative Learning
+Theme #4: Community Integration
+Theme #5: Values Modeling
+Theme #6: Alternative Tourism Paradigm","theme #1: authentic connection
+theme #2: environmental awakening
+theme #3: transformative learning
+theme #4: community integration
+theme #5: values modeling
+theme #6: alternative tourism paradigm"
+unlimited,16,13,ChatGPT 5 (Auto),Method,P7,"You are a professional qualitative researcher in the field of social psychology. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis. You need to employ qualitative, open-coding to inductively assess the interview data. Thematic coding was conducted in an iterative fashion. Techniques used for identifying themes included word repetition, linguistic connectors, similarities and differences, metaphors and analogies, ‘indigenous’ categories of information related to surfing and yoga, and theory-related material in the interviewees’ transcripts.","Theme #1: Embodied Connection” through Surf & Yoga
+Theme #2: Authentic Belonging & Care
+Theme #3: Values Alignment → Meaning Making
+Theme #4: Life Timing & Thresholds","theme #1: embodied connection” through surf & yoga
+theme #2: authentic belonging & care
+theme #3: values alignment → meaning making
+theme #4: life timing & thresholds"
+unlimited,17,14,Claude (Sonnet 4),Method,P7,"You are a professional qualitative researcher in the field of social psychology. Your task is to perform coding across the uploaded transcripts and carry out a thematic analysis. You need to employ qualitative, open-coding to inductively assess the interview data. Thematic coding was conducted in an iterative fashion. Techniques used for identifying themes included word repetition, linguistic connectors, similarities and differences, metaphors and analogies, ‘indigenous’ categories of information related to surfing and yoga, and theory-related material in the interviewees’ transcripts.","Theme #1: Transformative Experience and Personal Connection
+Theme #2: Environmental Consciousness and Behavioral Change
+Theme #3: Community Integration and Local Connection
+Theme #4: Holistic Skill Development
+Theme #5: Quality of Instruction and Personalization
+Theme #6: Departure from Conventional Tourism
+Theme #7: Lasting Impact and Continued Connection
+Theme #8: Mindfulness and Reflection
+Theme #9: Expectation Transcendence
+Theme #10: Challenge and Growth","theme #1: transformative experience and personal connection
+theme #2: environmental consciousness and behavioral change
+theme #3: community integration and local connection
+theme #4: holistic skill development
+theme #5: quality of instruction and personalization
+theme #6: departure from conventional tourism
+theme #7: lasting impact and continued connection
+theme #8: mindfulness and reflection
+theme #9: expectation transcendence
+theme #10: challenge and growth"

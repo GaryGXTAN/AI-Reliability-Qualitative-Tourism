@@ -1,0 +1,44 @@
+# generated 2026-04-15T17:54:59.576361
+sheet,model,row_id,scholar,canonical_concepts
+unlimited,ChatGPT 5 (Auto),4,,16
+unlimited,Claude (Sonnet 4),5,,20
+unlimited,ChatGPT 5 (Auto),6,,27
+unlimited,Claude (Sonnet 4),7,,16
+unlimited,ChatGPT 5 (Auto),8,,35
+unlimited,Claude (Sonnet 4),9,,20
+unlimited,ChatGPT 5 (Auto),10,,14
+unlimited,Claude (Sonnet 4),11,,17
+unlimited,ChatGPT 5 (Auto),12,,22
+unlimited,Claude (Sonnet 4),13,,17
+unlimited,ChatGPT 5 (Auto),14,,31
+unlimited,Claude (Sonnet 4),15,,13
+unlimited,ChatGPT 5 (Auto),16,,14
+unlimited,Claude (Sonnet 4),17,,27
+three_themes,ChatGPT 5 (Auto),3,,6
+three_themes,ChatGPT 5 (Thinking + Study),4,,6
+three_themes,Claude (Sonnet 4),5,,6
+three_themes,Claude (Sonnet 4) Reaserch + Extended Thinking,6,,6
+scholar,ChatGPT 5 (Auto),3,Hunt,6
+scholar,ChatGPT 5 (Auto),3,Pan,6
+scholar,ChatGPT 5 (Auto),3,Mowen,6
+scholar,ChatGPT 5 (Auto),3,Fletcher,6
+scholar,ChatGPT 5 (Auto),3,Escobar,6
+scholar,ChatGPT 5 (Auto),3,Crompton,6
+scholar,ChatGPT 5  (Thinking+Study),4,Hunt,6
+scholar,ChatGPT 5  (Thinking+Study),4,Pan,6
+scholar,ChatGPT 5  (Thinking+Study),4,Mowen,6
+scholar,ChatGPT 5  (Thinking+Study),4,Fletcher,6
+scholar,ChatGPT 5  (Thinking+Study),4,Escobar,6
+scholar,ChatGPT 5  (Thinking+Study),4,Crompton,6
+scholar,Claude (Sonnet 4),5,Hunt,6
+scholar,Claude (Sonnet 4),5,Pan,6
+scholar,Claude (Sonnet 4),5,Mowen,6
+scholar,Claude (Sonnet 4),5,Fletcher,6
+scholar,Claude (Sonnet 4),5,Escobar,7
+scholar,Claude (Sonnet 4),5,Crompton,6
+scholar,Claude (Sonnet 4) Reaserch + Extended Thinking,6,Hunt,3
+scholar,Claude (Sonnet 4) Reaserch + Extended Thinking,6,Pan,6
+scholar,Claude (Sonnet 4) Reaserch + Extended Thinking,6,Mowen,6
+scholar,Claude (Sonnet 4) Reaserch + Extended Thinking,6,Fletcher,6
+scholar,Claude (Sonnet 4) Reaserch + Extended Thinking,6,Escobar,6
+scholar,Claude (Sonnet 4) Reaserch + Extended Thinking,6,Crompton,6

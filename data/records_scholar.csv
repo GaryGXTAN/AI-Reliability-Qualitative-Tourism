@@ -1,0 +1,122 @@
+# generated 2026-04-15T17:54:59.342188
+sheet,row,no,model,focus,scholar,prompt_text,output_raw,output_norm
+scholar,3,1,ChatGPT 5 (Auto),3 Themes,Hunt,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Carter A. Hunt (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Community Connection
+Theme #2: Environmental Awareness
+Theme #3: Personal Transformation","theme #1: community connection
+theme #2: environmental awareness
+theme #3: personal transformation"
+scholar,3,1,ChatGPT 5 (Auto),3 Themes,Pan,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Bing Pan (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Community Connection
+Theme #2: Behavioral Transformation
+Theme #3: Sustainable Engagement","theme #1: community connection
+theme #2: behavioral transformation
+theme #3: sustainable engagement"
+scholar,3,1,ChatGPT 5 (Auto),3 Themes,Mowen,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Andrew J. Mowen (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Experiential Connection
+Theme #2: Environmental Stewardship
+Theme #3: Personal Transformation","theme #1: experiential connection
+theme #2: environmental stewardship
+theme #3: personal transformation"
+scholar,3,1,ChatGPT 5 (Auto),3 Themes,Fletcher,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Robert Fletcher (Wageningen, University & Research).","Theme #1: Transformative Encounters
+Theme #2: Community Integration
+Theme #3: Environmental Ethos","theme #1: transformative encounters
+theme #2: community integration
+theme #3: environmental ethos"
+scholar,3,1,ChatGPT 5 (Auto),3 Themes,Escobar,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Arturo Escobar (at the University of North Carolina).,"Theme #1: Relational Embodiment
+Theme #2: Community Coexistence
+Theme #3: Transformative Awareness","theme #1: relational embodiment
+theme #2: community coexistence
+theme #3: transformative awareness"
+scholar,3,1,ChatGPT 5 (Auto),3 Themes,Crompton,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. John L. Crompton (at Texas A&M University).,"Theme #1: Experiential Fulfillment
+Theme #2: Community Connection
+Theme #3: Value Realization","theme #1: experiential fulfillment
+theme #2: community connection
+theme #3: value realization"
+scholar,4,2,ChatGPT 5  (Thinking+Study),3 Themes,Hunt,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Carter A. Hunt (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Community immersion
+Theme #2: Environmental stewardship
+Theme #3: Transformative learning","theme #1: community immersion
+theme #2: environmental stewardship
+theme #3: transformative learning"
+scholar,4,2,ChatGPT 5  (Thinking+Study),3 Themes,Pan,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Bing Pan (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Environmental Stewardship
+Theme #2: Community Connection
+Theme #3: Behavior Change","theme #1: environmental stewardship
+theme #2: community connection
+theme #3: behavior change"
+scholar,4,2,ChatGPT 5  (Thinking+Study),3 Themes,Mowen,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Andrew J. Mowen (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Community Engagement
+Theme #2: Environmental Stewardship
+Theme #3: Physical Activity","theme #1: community engagement
+theme #2: environmental stewardship
+theme #3: physical activity"
+scholar,4,2,ChatGPT 5  (Thinking+Study),3 Themes,Fletcher,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Robert Fletcher (Wageningen, University & Research).","Theme #1: Embodied Ecology
+Theme #2: Community Embeddedness
+Theme #3: Sustainability Praxis","theme #1: embodied ecology
+theme #2: community embeddedness
+theme #3: sustainability praxis"
+scholar,4,2,ChatGPT 5  (Thinking+Study),3 Themes,Escobar,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Arturo Escobar (at the University of North Carolina).,"Theme #1: Community Embeddedness
+Theme #2: Embodied Relationality
+Theme #3: Transformative Praxis","theme #1: community embeddedness
+theme #2: embodied relationality
+theme #3: transformative praxis"
+scholar,4,2,ChatGPT 5  (Thinking+Study),3 Themes,Crompton,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. John L. Crompton (at Texas A&M University).,"Theme #1: Authentic Connection
+Theme #2: Stewardship Activation
+Theme #3: Loyalty Formation","theme #1: authentic connection
+theme #2: stewardship activation
+theme #3: loyalty formation"
+scholar,5,3,Claude (Sonnet 4),3 Themes,Hunt,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Carter A. Hunt (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Authentic Connection
+Theme #2: Environmental Awakening
+Theme #3: Transformative Impact","theme #1: authentic connection
+theme #2: environmental awakening
+theme #3: transformative impact"
+scholar,5,3,Claude (Sonnet 4),3 Themes,Pan,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Bing Pan (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Transformative Experience
+Theme #2: Environmental Consciousness
+Theme #3: Authentic Community","theme #1: transformative experience
+theme #2: environmental consciousness
+theme #3: authentic community"
+scholar,5,3,Claude (Sonnet 4),3 Themes,Mowen,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Andrew J. Mowen (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Transformative Experience
+Theme #2: Community Connection
+Theme #3: Environmental Consciousness","theme #1: transformative experience
+theme #2: community connection
+theme #3: environmental consciousness"
+scholar,5,3,Claude (Sonnet 4),3 Themes,Fletcher,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Robert Fletcher (Wageningen, University & Research).","Theme #1: Authentic Connection
+Theme #2: Transformative Experience
+Theme #3: Sustainable Consumption","theme #1: authentic connection
+theme #2: transformative experience
+theme #3: sustainable consumption"
+scholar,5,3,Claude (Sonnet 4),3 Themes,Escobar,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Arturo Escobar (at the University of North Carolina).,"Theme #1: Relational Living
+Theme #2: Place-Based Knowledge
+Theme #3: Convivial Tools","theme #1: relational living
+theme #2: place-based knowledge
+theme #3: convivial tools"
+scholar,5,3,Claude (Sonnet 4),3 Themes,Crompton,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. John L. Crompton (at Texas A&M University).,"Theme #1: Authentic Connection
+Theme #2: Environmental Awakening
+Theme #3: Transformative Learning","theme #1: authentic connection
+theme #2: environmental awakening
+theme #3: transformative learning"
+scholar,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,Hunt,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Carter A. Hunt (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Immersive Experiences
+Theme #2: Identity Reinforcement
+Theme #3: Meaningful Reflection","theme #1: immersive experiences
+theme #2: identity reinforcement
+theme #3: meaningful reflection"
+scholar,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,Pan,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Bing Pan (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Ecological Identity
+Theme #2: Eudaimonic Awakening
+Theme #3: Behavioral Commitment","theme #1: ecological identity
+theme #2: eudaimonic awakening
+theme #3: behavioral commitment"
+scholar,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,Mowen,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Andrew J. Mowen (at Recreation, Park, and Tourism Management, Penn State University).","Theme #1: Place Attachment
+Theme #2: Environmental Consciousness 
+Theme #3: Sustained Transformation","theme #1: place attachment
+theme #2: environmental consciousness 
+theme #3: sustained transformation"
+scholar,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,Fletcher,"Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Robert Fletcher (Wageningen, University & Research).","Theme #1: Transformative Encounters
+Theme #2: Environmental Awakening
+Theme #3: Capitalist Contradictions","theme #1: transformative encounters
+theme #2: environmental awakening
+theme #3: capitalist contradictions"
+scholar,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,Escobar,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. Arturo Escobar (at the University of North Carolina).,"Theme #1: Relational Ontologies
+Theme #2: Territorial Embodiment
+Theme #3: Development Apparatus","theme #1: relational ontologies
+theme #2: territorial embodiment
+theme #3: development apparatus"
+scholar,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,Crompton,Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only. Approach this analysis by simulating the perspective and scholarly lens of Dr. John L. Crompton (at Texas A&M University).,"Theme #1: Personal Transformation
+Theme #2: Authentic Community
+Theme #3: Environmental Awakening","theme #1: personal transformation
+theme #2: authentic community
+theme #3: environmental awakening"

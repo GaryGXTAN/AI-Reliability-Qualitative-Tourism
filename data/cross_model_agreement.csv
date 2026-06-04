@@ -1,0 +1,51 @@
+# generated 2026-04-15T17:54:59.425457
+group,model_a,model_b,row_a,row_b,lex_jaccard,syn_jaccard,tfidf_cos,sheet
+P1,ChatGPT 5 (Auto),Claude (Sonnet 4),4,5,0.08571428571428572,0.2857142857142857,0.7229053906065505,unlimited
+P2,ChatGPT 5 (Auto),Claude (Sonnet 4),6,7,0.0,0.04878048780487805,0.5741818430561134,unlimited
+P3,ChatGPT 5 (Auto),Claude (Sonnet 4),8,9,0.05357142857142857,0.14583333333333334,0.6713335214522321,unlimited
+P4,ChatGPT 5 (Auto),Claude (Sonnet 4),10,11,0.06666666666666667,0.10714285714285714,0.5665288439213175,unlimited
+P5,ChatGPT 5 (Auto),Claude (Sonnet 4),12,13,0.025,0.08333333333333333,0.6447454596056301,unlimited
+P6,ChatGPT 5 (Auto),Claude (Sonnet 4),14,15,0.06818181818181818,0.1282051282051282,0.6914208718235582,unlimited
+P7,ChatGPT 5 (Auto),Claude (Sonnet 4),16,17,0.023809523809523808,0.07894736842105263,0.5319169026013404,unlimited
+3 Themes,ChatGPT 5 (Auto),ChatGPT 5 (Thinking + Study),3,4,0.3333333333333333,0.3333333333333333,0.7708992893275451,three_themes
+3 Themes,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.3333333333333333,0.5,0.8099394941148284,three_themes
+3 Themes,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.2,0.5,0.760916789736076,three_themes
+3 Themes,ChatGPT 5 (Thinking + Study),Claude (Sonnet 4),4,5,0.2,0.3333333333333333,0.6870287817905063,three_themes
+3 Themes,ChatGPT 5 (Thinking + Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.2,0.3333333333333333,0.6829324718693668,three_themes
+3 Themes,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.7142857142857143,1.0,0.9395323973823331,three_themes
+Hunt,ChatGPT 5 (Auto),ChatGPT 5  (Thinking+Study),3,4,0.2,0.3333333333333333,0.7674244778596179,scholar
+Hunt,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.2,0.5,0.7817676856238778,scholar
+Hunt,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.0,0.125,0.5763888888888888,scholar
+Hunt,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4),4,5,0.2,0.2,0.7564886861514403,scholar
+Hunt,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.0,0.125,0.6024640760767094,scholar
+Hunt,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.0,0.0,0.6056938825554369,scholar
+Pan,ChatGPT 5 (Auto),ChatGPT 5  (Thinking+Study),3,4,0.2,0.5,0.7565640754118383,scholar
+Pan,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.09090909090909091,0.3333333333333333,0.6600146671555737,scholar
+Pan,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.09090909090909091,0.09090909090909091,0.6186454160787324,scholar
+Pan,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4),4,5,0.2,0.3333333333333333,0.6754030900297119,scholar
+Pan,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.0,0.09090909090909091,0.6364366934371064,scholar
+Pan,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.0,0.2,0.5944752150664131,scholar
+Mowen,ChatGPT 5 (Auto),ChatGPT 5  (Thinking+Study),3,4,0.2,0.3333333333333333,0.7019450143966814,scholar
+Mowen,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.2,0.5,0.774107585970172,scholar
+Mowen,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.2,0.3333333333333333,0.7107748833446258,scholar
+Mowen,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4),4,5,0.2,0.3333333333333333,0.6756756756756758,scholar
+Mowen,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.09090909090909091,0.09090909090909091,0.6414304449818098,scholar
+Mowen,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.2,0.5,0.7738997760106618,scholar
+Fletcher,ChatGPT 5 (Auto),ChatGPT 5  (Thinking+Study),3,4,0.09090909090909091,0.2,0.5621036958439504,scholar
+Fletcher,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.09090909090909091,0.09090909090909091,0.646693743732307,scholar
+Fletcher,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.3333333333333333,0.3333333333333333,0.7975148597668666,scholar
+Fletcher,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4),4,5,0.0,0.09090909090909091,0.5375291823076759,scholar
+Fletcher,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.0,0.09090909090909091,0.4756081094999553,scholar
+Fletcher,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.09090909090909091,0.09090909090909091,0.635540372144721,scholar
+Escobar,ChatGPT 5 (Auto),ChatGPT 5  (Thinking+Study),3,4,0.2,0.3333333333333333,0.8043978137140955,scholar
+Escobar,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.08333333333333333,0.08333333333333333,0.6091095901015048,scholar
+Escobar,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.2,0.2,0.6618876325292973,scholar
+Escobar,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4),4,5,0.0,0.0,0.5684477699251419,scholar
+Escobar,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.0,0.09090909090909091,0.5795378640469799,scholar
+Escobar,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.08333333333333333,0.08333333333333333,0.5896245778943944,scholar
+Crompton,ChatGPT 5 (Auto),ChatGPT 5  (Thinking+Study),3,4,0.09090909090909091,0.09090909090909091,0.6836977449314972,scholar
+Crompton,ChatGPT 5 (Auto),Claude (Sonnet 4),3,5,0.09090909090909091,0.2,0.6274863048735096,scholar
+Crompton,ChatGPT 5 (Auto),Claude (Sonnet 4) Reaserch + Extended Thinking,3,6,0.09090909090909091,0.2,0.6667337424960614,scholar
+Crompton,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4),4,5,0.2,0.2,0.7019450143966814,scholar
+Crompton,ChatGPT 5  (Thinking+Study),Claude (Sonnet 4) Reaserch + Extended Thinking,4,6,0.09090909090909091,0.09090909090909091,0.6673937804275012,scholar
+Crompton,Claude (Sonnet 4),Claude (Sonnet 4) Reaserch + Extended Thinking,5,6,0.3333333333333333,0.5,0.8661072394003818,scholar

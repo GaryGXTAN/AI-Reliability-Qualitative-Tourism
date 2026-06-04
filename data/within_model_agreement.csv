@@ -1,0 +1,42 @@
+# generated 2026-04-15T17:54:59.446785
+sheet,model,tone_a,tone_b,round_a,round_b,lex_jaccard,syn_jaccard,tfidf_cos
+within_model,ChatGPT 5.1 (Auto),Supportive,Mild Rejection,0,0,0.5,0.833333,0.720127
+within_model,ChatGPT 5.1 (Auto),Supportive,Strong Rejection,0,0,0.5,0.833333,0.724281
+within_model,ChatGPT 5.1 (Auto),Supportive,With Lens (Carter),0,0,0.5,0.833333,0.720127
+within_model,ChatGPT 5.1 (Auto),Supportive,With Lens (Bing),0,0,0.5,0.833333,0.720127
+within_model,ChatGPT 5.1 (Auto),Mild Rejection,Strong Rejection,0,0,0.714286,0.714286,0.850249
+within_model,ChatGPT 5.1 (Auto),Mild Rejection,With Lens (Carter),0,0,1.0,1.0,1.0
+within_model,ChatGPT 5.1 (Auto),Mild Rejection,With Lens (Bing),0,0,1.0,1.0,1.0
+within_model,ChatGPT 5.1 (Auto),Strong Rejection,With Lens (Carter),0,0,0.714286,0.714286,0.850249
+within_model,ChatGPT 5.1 (Auto),Strong Rejection,With Lens (Bing),0,0,0.714286,0.714286,0.850249
+within_model,ChatGPT 5.1 (Auto),With Lens (Carter),With Lens (Bing),0,0,1.0,1.0,1.0
+within_model,Claude Sonnet 4.5,Supportive,Mild Rejection,0,0,0.714286,1.0,0.865133
+within_model,Claude Sonnet 4.5,Supportive,Strong Rejection,0,0,0.714286,1.0,0.865133
+within_model,Claude Sonnet 4.5,Supportive,With Lens (Carter),0,0,1.0,1.0,0.968963
+within_model,Claude Sonnet 4.5,Supportive,With Lens (Bing),0,0,0.714286,1.0,0.865133
+within_model,Claude Sonnet 4.5,Mild Rejection,Strong Rejection,0,0,1.0,1.0,1.0
+within_model,Claude Sonnet 4.5,Mild Rejection,With Lens (Carter),0,0,0.714286,1.0,0.895109
+within_model,Claude Sonnet 4.5,Mild Rejection,With Lens (Bing),0,0,1.0,1.0,1.0
+within_model,Claude Sonnet 4.5,Strong Rejection,With Lens (Carter),0,0,0.714286,1.0,0.895109
+within_model,Claude Sonnet 4.5,Strong Rejection,With Lens (Bing),0,0,1.0,1.0,1.0
+within_model,Claude Sonnet 4.5,With Lens (Carter),With Lens (Bing),0,0,0.714286,1.0,0.895109
+within_model,ChatGPT 5.1 (Thinking + Study),Supportive,Mild Rejection,0,0,0.333333,0.666667,0.680905
+within_model,ChatGPT 5.1 (Thinking + Study),Supportive,Strong Rejection,0,0,1.0,1.0,1.0
+within_model,ChatGPT 5.1 (Thinking + Study),Supportive,With Lens (Carter),0,0,0.714286,0.714286,0.850249
+within_model,ChatGPT 5.1 (Thinking + Study),Supportive,With Lens (Bing),0,0,1.0,1.0,1.0
+within_model,ChatGPT 5.1 (Thinking + Study),Mild Rejection,Strong Rejection,0,0,0.333333,0.666667,0.680905
+within_model,ChatGPT 5.1 (Thinking + Study),Mild Rejection,With Lens (Carter),0,0,0.2,0.428571,0.51246
+within_model,ChatGPT 5.1 (Thinking + Study),Mild Rejection,With Lens (Bing),0,0,0.333333,0.666667,0.680905
+within_model,ChatGPT 5.1 (Thinking + Study),Strong Rejection,With Lens (Carter),0,0,0.714286,0.714286,0.850249
+within_model,ChatGPT 5.1 (Thinking + Study),Strong Rejection,With Lens (Bing),0,0,1.0,1.0,1.0
+within_model,ChatGPT 5.1 (Thinking + Study),With Lens (Carter),With Lens (Bing),0,0,0.714286,0.714286,0.850249
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Supportive,Mild Rejection,0,0,0.333333,0.5,0.76365
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Supportive,Strong Rejection,0,0,0.5,0.714286,0.849354
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Supportive,With Lens (Carter),0,0,0.333333,0.5,0.698218
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Supportive,With Lens (Bing),0,0,0.333333,0.5,0.698218
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Mild Rejection,Strong Rejection,0,0,0.714286,0.714286,0.889635
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Mild Rejection,With Lens (Carter),0,0,0.5,0.5,0.736452
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Mild Rejection,With Lens (Bing),0,0,0.5,0.5,0.736452
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Strong Rejection,With Lens (Carter),0,0,0.714286,0.714286,0.848277
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),Strong Rejection,With Lens (Bing),0,0,0.714286,0.714286,0.848277
+within_model,Claude Sonnet 4.5 (Research + Extended Thinking),With Lens (Carter),With Lens (Bing),0,0,1.0,1.0,1.0

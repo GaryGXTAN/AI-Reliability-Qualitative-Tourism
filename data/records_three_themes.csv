@@ -1,0 +1,22 @@
+# generated 2026-04-15T17:54:59.330111
+sheet,row,no,model,focus,prompt_text,output_raw,output_norm
+three_themes,3,1,ChatGPT 5 (Auto),3 Themes,You are a professional qualitative researcher. Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only.,"Theme #1: Experiential Learning
+Theme #2: Environmental Awareness
+Theme #3: Community Connection","theme #1: experiential learning
+theme #2: environmental awareness
+theme #3: community connection"
+three_themes,4,2,ChatGPT 5 (Thinking + Study),3 Themes,You are a professional qualitative researcher. Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only.,"Theme #1: Community Connection
+Theme #2: Environmental Stewardship
+Theme #3: Behavior Change","theme #1: community connection
+theme #2: environmental stewardship
+theme #3: behavior change"
+three_themes,5,3,Claude (Sonnet 4),3 Themes,You are a professional qualitative researcher. Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only.,"Theme #1: Authentic Connection
+Theme #2: Environmental Awareness
+Theme #3: Transformative Experience","theme #1: authentic connection
+theme #2: environmental awareness
+theme #3: transformative experience"
+three_themes,6,4,Claude (Sonnet 4) Reaserch + Extended Thinking,3 Themes,You are a professional qualitative researcher. Your task is to perform a thematic analysis across the uploaded transcripts. Identify exactly three primary themes that capture the most central ideas. Present each theme as two words only.,"Theme #1: Authentic Connection
+Theme #2: Environmental Consciousness
+Theme #3: Transformative Experience","theme #1: authentic connection
+theme #2: environmental consciousness
+theme #3: transformative experience"
